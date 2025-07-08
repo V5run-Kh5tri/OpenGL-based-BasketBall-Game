@@ -39,12 +39,12 @@ A simple 2D basketball shooting game built with C++ and OpenGL (GLUT). Control a
 - [`game.cpp`](game.cpp): Main source file containing all game logic and rendering.
 
 ## Screenshots
-(images/Picture1.jpg)
-(images/Picture2.jpg)
-(images/Picture3.png)
-(images/Picture4.png)
-(images/Picture5.png)
-(images/Picture6.png)
+![Landing Page](images/Picture1.jpg)
+![Main Screen](images/Picture2.jpg)
+![Main Screen](images/Picture3.png)
+![Main Screen](images/Picture4.png)
+![Main Screen](images/Picture5.png)
+![Main Screen](images/Picture6.png)
 
 ## License
 
