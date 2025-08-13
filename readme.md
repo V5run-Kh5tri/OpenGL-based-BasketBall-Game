@@ -1,4 +1,4 @@
-# Ballistic Basketball
+# NBA2k17
 
 A simple 2D basketball shooting game built with C++ and OpenGL (GLUT). Control a stick figure to aim and shoot basketballs into a moving hoop. Score points for each successful shot!
 
